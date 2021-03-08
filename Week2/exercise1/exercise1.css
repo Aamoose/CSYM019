@@ -1,0 +1,13 @@
+#red{
+    color:red;
+}
+#white_on_black{
+    background-color:#000000;
+    color:white;
+}
+.green{
+    color:green;
+}
+#bg_red{
+    background-color: darkred;
+}

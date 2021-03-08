@@ -1,0 +1,46 @@
+body{
+    min-height:100vh ; 
+ }
+#header{
+    background-color: blue;
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+    margin-top: -1.5em;
+    color: white;
+    padding: 1em ;
+    padding-top: 2em;
+}
+#grid{
+    min-height: 480px;
+}
+.column1 {
+    float: left;
+    width: 20%;
+    background-color: yellow;
+    margin-left: -0.5em;
+    min-height: 480px;
+}
+.column2{
+    float: left;
+    width: 60%;
+    background-color: navy;
+    color: white;
+    min-height: 480px;
+}
+.column3{
+    float: left;
+    width: 21.2%;
+    background-color: lightgreen;
+    min-height: 480px;
+    margin-right: -0.5em!important;
+}
+
+#footer{
+    width: 100%;
+    background-color: green;
+    color: white;
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+    padding: 0.1em;
+    padding-left: 1em;
+}
